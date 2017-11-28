@@ -18,5 +18,9 @@ Richkay\Gcalendar\GcalendarServiceProvider::class
 Composer Update
 
 
+## Open
+http://localhost:8000/holidays
+
+
   
 
