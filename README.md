@@ -5,5 +5,18 @@
 Richkay\Gcalendar\GcalendarServiceProvider::class 
 
 
+### Add on composer.json
+
+"psr-4": {
+       "App\\": "app/",
+       "Richkay\\Gcalendar\\":"modules/richkay/gcalendar/src"
+}
+
+
+## RUN
+
+Composer Update
+
+
   
 
