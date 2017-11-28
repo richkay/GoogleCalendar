@@ -1,6 +1,9 @@
 # GoogleCalendar
 
-Add 
-  Richkay\Gcalendar\GcalendarServiceProvider::class,
+## Add on Config/app.php
+
+Richkay\Gcalendar\GcalendarServiceProvider::class 
+
+
   
-on Config/app.php
+
