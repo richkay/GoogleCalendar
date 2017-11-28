@@ -1,0 +1,16 @@
+{
+    "name": "richkay/gcalendar",
+    "description": "Public Holiday with Google Calendar [Test for Dominopos]",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Firnaji Richard",
+            "email": "richfein71@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle":"6.x"
+    }
+}
